@@ -1,5 +1,6 @@
 from Potato_class import *
 from Wheat_class import *
+from Cow_class import *
 from Sheep_class import *
 from Cow_class import *
 import random
